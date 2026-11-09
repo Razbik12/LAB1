@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="sbt: org.scala-lang:scala3-library_3:3.3.6:jar" type="java-imported" external-system-id="SBT">
+    <properties groupId="org.scala-lang" artifactId="scala3-library_3" version="3.3.6" baseVersion="3.3.6" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.6/scala3-library_3-3.3.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.6/scala3-library_3-3.3.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

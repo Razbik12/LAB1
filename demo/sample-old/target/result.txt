@@ -1,0 +1,1 @@
+Учебный файл: target/result.txt

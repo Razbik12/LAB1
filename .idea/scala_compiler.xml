@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <option name="separateProdTestSources" value="true" />
+    <profile name="sbt 1" modules="TemporaryCleaner,fp1_7882,fp1_7882.main,fp1_7882.test" />
+    <profile name="sbt 2" modules="TemporaryCleaner.main,TemporaryCleaner.test">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <parameters>
+        <parameter value="-encoding" />
+        <parameter value="UTF-8" />
+      </parameters>
+    </profile>
+  </component>
+</project>
